@@ -1,6 +1,6 @@
-# Vitae
+# Palmtree
 
-Vitae is an opinionated starter template that uses Vite + React + Typescript
+Palmtree is a travel aggregator built on React
 
 ## Features
 
@@ -12,9 +12,7 @@ Vitae is an opinionated starter template that uses Vite + React + Typescript
 
 ## Getting started
 
-Use this repository as a [GitHub template](https://https://github.com/LuisVallespin/Vitae/generate):
-
-Then, install the dependencies:
+Install the dependencies:
 
 ```
 npm i
